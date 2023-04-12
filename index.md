@@ -10,4 +10,4 @@ print("Me gusta el arte")
 
 - [x] Si
 - [ ] No
-- [ ] No s
+- [ ] No se
